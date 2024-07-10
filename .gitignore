@@ -1,0 +1,7 @@
+*.txt
+__pycache__/
+venv_package/
+pytest_cache
+mlruns/
+dummy
+.DS_Store
